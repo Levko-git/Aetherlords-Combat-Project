@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dduaev5e5qo2k"]
+
+[ext_resource type="Script" uid="uid://de1fs2e1xgg7x" path="res://Scripts/player_ship_script.gd" id="1_rh3k8"]
+
+[node name="player_ship_scene" type="Node2D"]
+script = ExtResource("1_rh3k8")
+metadata/_custom_type_script = "uid://bjs26bmowkols"
